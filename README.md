@@ -141,17 +141,12 @@ I'm a computer science student passionate about writing clean, efficient code an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-<!--
-## 📂 Featured Projects
+
+## 📂 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧩 [DSA Repository](https://github.com/OwaisKhan08093) | Structured solutions to DSA problems — arrays, trees, graphs, DP and more | C++, Python |
-| 🌿 [AI Plant Disease Detection](https://github.com/OwaisKhan08093) | ML model that detects plant diseases from leaf images | Python, ML |
-| 🎨 [Python Animation Pack](https://github.com/OwaisKhan08093) | Collection of creative animations built with Python libraries | Python |
-
-> 📌 *Replace the links above with your actual repo URLs*
-!-->
+| 🌐 [Portfolio](https://owaiskhan08093.github.io/Portfolio-website/) | Personal portfolio showcasing my projects, skills, and achievements | HTML, CSS, JavaScript |
 ---
 
 ## 📊 GitHub Stats
