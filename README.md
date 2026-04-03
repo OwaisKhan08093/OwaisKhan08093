@@ -36,6 +36,13 @@
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisKhan08093\&show_icons=true\&theme=tokyonight)
 
 ---
+## 📫 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/owais-khan-608954381">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 
 ## 📫 Connect with Me
