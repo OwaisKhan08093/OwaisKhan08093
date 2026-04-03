@@ -5,16 +5,18 @@
 
 ## 🚀 About Me
 
-* 🎓 Student (Class 12 pass)
+🎓 Student passionate about coding
 * 💻 Learning Data Structures & Algorithms
 * 🤖 Exploring AI & Machine Learning
+* 🚀 Building real-world projects
 * 🔗 Interested in Blockchain Projects
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 C++
+* 💻 C,C++
 * 🐍 Python
 * ⚙️ Git & GitHub
 * 🧠 Machine Learning (Beginner)
@@ -35,11 +37,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=OwaisKhan08093\&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
