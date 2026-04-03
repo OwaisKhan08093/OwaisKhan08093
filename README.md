@@ -18,7 +18,7 @@
 
 <h1 align="center" style="font-family: 'Cinzel', serif;">👋 Hi, I'm Owais Khan</h1>
 
-<h3 align="center">🚀 Software Developer | DSA Enthusiast | AI Explorer</h3>
+<h3 align="center">🚀Aspiring Software Developer | DSA Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Coder;DSA+Learner;AI+Explorer;Future+Software+Engineer" />
