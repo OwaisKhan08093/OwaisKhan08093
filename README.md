@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Owais Khan</h1>
-<h3 align="center">Aspiring Software Developer | DSA | AI Enthusiast 🚀</h3>
+<!-- <h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h3 align="center">Aspiring Software Developer | DSA | AI Enthusiast 🚀</h3> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Owais%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Owais Khan</h1>
+
+<h3 align="center">🚀 Software Developer | DSA Enthusiast | AI Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Coder;DSA+Learner;AI+Explorer;Future+Software+Engineer" />
+</p>
 
 ---
 
