@@ -115,7 +115,6 @@ I'm a computer science student passionate about writing clean, efficient code an
 - 🧩 Daily DSA practice — consistency over intensity
 - 🤖 Exploring AI/ML and how it's reshaping the world
 - 🌱 Currently learning: Advanced Algorithms, ML fundamentals, System Design
-- 🔗 Interested in Blockchain and decentralized technologies
 - 💬 Ask me about: C++, Python, DSA, or anything CS-related
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/owais-khan-608954381)**
 
@@ -134,7 +133,6 @@ I'm a computer science student passionate about writing clean, efficient code an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Exploring**
 
