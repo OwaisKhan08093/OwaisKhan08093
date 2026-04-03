@@ -93,7 +93,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=220&section=header&text=Owais%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%20Explorer&descSize=18&descAlignY=58&descFontColor=ccfbff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=220&section=header&text=Owais%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%20Explorer&descSize=18&descAlignY=58&descFontColor=ccfbff" />
 </p>
 
 <p align="center">
