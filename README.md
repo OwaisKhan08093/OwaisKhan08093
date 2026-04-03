@@ -141,7 +141,7 @@ I'm a computer science student passionate about writing clean, efficient code an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
@@ -151,7 +151,7 @@ I'm a computer science student passionate about writing clean, efficient code an
 | 🎨 [Python Animation Pack](https://github.com/OwaisKhan08093) | Collection of creative animations built with Python libraries | Python |
 
 > 📌 *Replace the links above with your actual repo URLs*
-
+!-->
 ---
 
 ## 📊 GitHub Stats
