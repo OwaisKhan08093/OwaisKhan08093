@@ -142,11 +142,13 @@ I'm a computer science student passionate about writing clean, efficient code an
 
 ---
 
-## 📂 Projects
+## 🌟 My Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌐 [Portfolio](https://owaiskhan08093.github.io/Portfolio-website/) | Personal portfolio showcasing my projects, skills, and achievements | HTML, CSS, JavaScript |
+| Project                                                                     | Description                                                                                                                 | Tech Stack                                      |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 🌐 [Portfolio Website](https://owaiskhan08093.github.io/Portfolio-website/) | Personal portfolio showcasing my projects, skills, and achievements                                                         | HTML, CSS, JavaScript                           |
+| 🏠 House Price Prediction                                                   | Machine Learning model to predict house prices using area, bedrooms, and bathrooms with visualization and residual analysis | Python, Pandas, NumPy, Matplotlib, Scikit-learn |
+
 ---
 
 ## 📊 GitHub Stats
