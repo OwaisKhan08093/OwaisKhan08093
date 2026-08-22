@@ -66,27 +66,23 @@ I'm a **Computer Science student** passionate about solving problems, building u
 
 ### 🧠 WHAT I DO
 
-```diff
-+ Practice Data Structures & Algorithms
-+ Build full-stack projects
-+ Explore AI & Machine Learning
-+ Turn ideas into working products
-+ Learn through practical projects
-```
+- Practice Data Structures & Algorithms
+- Build full-stack projects
+- Explore AI & Machine Learning
+- Turn ideas into working products
+- Learn through practical projects
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 CURRENT FOCUS
 
-```diff
-~ Advanced DSA
-~ Machine Learning fundamentals
-~ Backend development
-~ System Design
-~ Portfolio projects
-~ Problem-solving skills
-```
+- Advanced DSA
+- Machine Learning fundamentals
+- Backend development
+- System Design
+- Portfolio projects
+- Problem-solving skills
 
 </td>
 </tr>
@@ -98,29 +94,25 @@ I'm a **Computer Science student** passionate about solving problems, building u
 
 <table width="100%">
 <tr>
-<td width="15%" align="center" valign="middle"><b>LANGUAGES</b></td>
-<td colspan="2" width="85%" valign="middle">
-<table width="100%"><tr>
-<td width="50%" valign="middle"><img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="Languages — Group 1"/></td>
-<td width="50%" valign="middle"><img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark" alt="Languages — Group 2"/></td>
-</tr></table>
-</td>
+<td width="18%" align="center" valign="middle"><b>LANGUAGES</b></td>
+<td width="41%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="Languages — Group 1"/></td>
+<td width="41%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark" alt="Languages — Group 2"/></td>
 </tr>
 <tr>
-<td width="15%" align="center" valign="middle"><b>FRONTEND</b></td>
-<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/></td>
+<td width="18%" align="center" valign="middle"><b>FRONTEND</b></td>
+<td colspan="2" width="82%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/></td>
 </tr>
 <tr>
-<td width="15%" align="center" valign="middle"><b>BACKEND</b></td>
-<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/></td>
+<td width="18%" align="center" valign="middle"><b>BACKEND</b></td>
+<td colspan="2" width="82%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/></td>
 </tr>
 <tr>
-<td width="15%" align="center" valign="middle"><b>DATABASE</b></td>
-<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database"/></td>
+<td width="18%" align="center" valign="middle"><b>DATABASE</b></td>
+<td colspan="2" width="82%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database"/></td>
 </tr>
 <tr>
-<td width="15%" align="center" valign="middle"><b>AI / DATA</b></td>
-<td colspan="2" width="85%" valign="middle">
+<td width="18%" align="center" valign="middle"><b>AI / DATA</b></td>
+<td colspan="2" width="82%" align="center" valign="middle">
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI/Data"/>
 &nbsp;<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"/>
 &nbsp;<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
@@ -130,8 +122,8 @@ I'm a **Computer Science student** passionate about solving problems, building u
 </td>
 </tr>
 <tr>
-<td width="15%" align="center" valign="middle"><b>TOOLS</b></td>
-<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark" alt="Tools"/>
+<td width="18%" align="center" valign="middle"><b>TOOLS</b></td>
+<td colspan="2" width="82%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark" alt="Tools"/>
 </td>
 </tr>
 </table>
