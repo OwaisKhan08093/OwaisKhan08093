@@ -400,16 +400,17 @@ Improve consistently.
 
 </div> -->
 
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0077B6,100:00F7FF&height=220&section=header&text=OWAIS%20KHAN&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=Learning%20%7C%20Building%20%7C%20Shipping;Turning%20Algorithms%20Into%20Solutions;Building%20Real-World%20Software;Exploring%20AI%20%26%20Machine%20Learning;Solving%20Problems%20With%20Code" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 &nbsp;
@@ -417,7 +418,14 @@ Improve consistently.
 &nbsp;
 <img src="https://img.shields.io/github/stars/OwaisKhan08093?label=STARS&style=for-the-badge&color=0077B6&labelColor=0D1117" alt="Stars"/>
 
-</div>
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./Owais.jpg.jpg" width="220" alt="Owais Khan"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
