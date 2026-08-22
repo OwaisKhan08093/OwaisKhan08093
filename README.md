@@ -1,53 +1,55 @@
 <!-- ========================================================= -->
-
-<!--                    OWAIS KHAN — README                    -->
-
+<!--                    OWAIS KHAN README                      -->
 <!-- ========================================================= -->
 
-<!-- ========================= HERO ========================== -->
+<!-- =========================== HERO ======================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=OWAIS%20KHAN&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descAlignY=61&descFontColor=00F7FF&color=0:00F7FF,35:0077B6,70:061826,100:050505"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:0077B6,65:061826,100:050505&height=260&section=header&text=OWAIS%20KHAN&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=19&descAlignY=61&descFontColor=00F7FF"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Algorithms+Into+Solutions;Building+Real-World+Software;Exploring+AI+%26+Machine+Learning;Learning+%7C+Building+%7C+Shipping"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Shipping;Turning+Algorithms+Into+Solutions;Building+Real-World+Software;Exploring+AI+%26+Machine+Learning"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/OwaisKhan08093">
-    <img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/OwaisKhan08093?tab=followers">
-    <img src="https://img.shields.io/github/followers/OwaisKhan08093?style=for-the-badge&color=0077B6&label=FOLLOWERS"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/OwaisKhan08093?style=for-the-badge&color=0077B6&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/OwaisKhan08093?style=for-the-badge&color=00F7FF&label=TOTAL+STARS"/>
+
 </p>
 
 <br>
 
-<!-- ======================= ABOUT ========================== -->
+<!-- ========================= ABOUT ========================= -->
 
 <h2 align="center">
   👨‍💻 ABOUT ME
 </h2>
 
 <p align="center">
-  <b>Computer Science Student • Software Developer • DSA Enthusiast • AI Explorer</b>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-00F7FF?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-0077B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA%20Enthusiast-061826?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Explorer-00B4D8?style=flat-square"/>
 </p>
 
 <p align="center">
-  I enjoy solving problems, building useful applications, and exploring how
+  I enjoy solving problems, building useful applications,
   <br>
+  and exploring how
   <strong>software engineering + algorithms + artificial intelligence</strong>
   <br>
-  can create meaningful real-world impact.
+  can create real-world impact.
 </p>
 
 <br>
@@ -59,11 +61,27 @@
 
 <h3 align="center">🧠 WHAT I DO</h3>
 
-* 🧩 Practice Data Structures & Algorithms
-* 💻 Build full-stack applications
-* 🤖 Explore AI & Machine Learning
-* 🚀 Turn ideas into working products
-* 🔍 Learn through practical projects
+<p>
+
+🧩 &nbsp; Practice Data Structures & Algorithms
+
+<br><br>
+
+💻 &nbsp; Build full-stack projects
+
+<br><br>
+
+🤖 &nbsp; Explore AI & Machine Learning
+
+<br><br>
+
+🚀 &nbsp; Turn ideas into working products
+
+<br><br>
+
+🔍 &nbsp; Learn through practical projects
+
+</p>
 
 </td>
 
@@ -71,12 +89,31 @@
 
 <h3 align="center">🎯 CURRENT FOCUS</h3>
 
-* ⚡ Advanced DSA
-* 🤖 Machine Learning fundamentals
-* 🌐 Backend development
-* 🏗️ System Design
-* 🚀 Portfolio projects
-* 🧠 Problem-solving skills
+<p>
+
+⚡ &nbsp; Advanced DSA
+
+<br><br>
+
+🤖 &nbsp; Machine Learning fundamentals
+
+<br><br>
+
+🌐 &nbsp; Backend development
+
+<br><br>
+
+🏗️ &nbsp; System Design
+
+<br><br>
+
+🚀 &nbsp; Building portfolio projects
+
+<br><br>
+
+🧠 &nbsp; Improving problem-solving skills
+
+</p>
 
 </td>
 
@@ -85,47 +122,82 @@
 
 <br>
 
-<!-- ===================== TECH STACK ======================== -->
+<!-- ======================== TECH STACK ===================== -->
 
 <h2 align="center">
   ⚡ TECH STACK
 </h2>
 
-<p align="center">
-  <b>Languages</b>
-</p>
+<table width="100%">
+<tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark"/>
-</p>
+<td width="20%" align="center">
 
-<p align="center">
-  <b>Frontend & Backend</b>
-</p>
+<b>LANGUAGES</b>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql&theme=dark"/>
-</p>
+</td>
 
-<p align="center">
-  <b>AI / Data</b>
-</p>
+<td width="80%" align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark"/>
 
-<p align="center">
-  <b>Tools & Platforms</b>
-</p>
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark"/>
-</p>
+</tr>
+
+<tr>
+
+<td width="20%" align="center">
+
+<b>FRONTEND<br>& BACKEND</b>
+
+</td>
+
+<td width="80%" align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="20%" align="center">
+
+<b>AI / DATA</b>
+
+</td>
+
+<td width="80%" align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas&theme=dark"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="20%" align="center">
+
+<b>TOOLS &<br>PLATFORMS</b>
+
+</td>
+
+<td width="80%" align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<!-- ===================== SKILLS BADGES ==================== -->
+<!-- ======================== SKILLS ========================= -->
 
 <p align="center">
 
@@ -147,7 +219,7 @@
 
 <br>
 
-<!-- ===================== PROJECTS ========================= -->
+<!-- ====================== PROJECTS ========================= -->
 
 <h2 align="center">
   🚀 FEATURED PROJECTS
@@ -156,16 +228,24 @@
 <table width="100%">
 <tr>
 
+<!-- PROJECT 1 -->
+
 <td width="33%" valign="top">
 
-<h3 align="center">🌐 DSA Crash Course</h3>
+<h3 align="center">
+  🌐 DSA CRASH COURSE
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Interactive-00F7FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DSA-Interactive-00F7FF?style=flat-square"/>
+
 </p>
 
 <p align="center">
-Interactive learning platform for Data Structures & Algorithms with roadmaps, quizzes and learning modules.
+Interactive learning platform designed to help students learn
+Data Structures & Algorithms through structured topics,
+roadmaps and quizzes.
 </p>
 
 <p align="center">
@@ -173,33 +253,47 @@ Interactive learning platform for Data Structures & Algorithms with roadmaps, qu
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </p>
 
 <p align="center">
-  <a href="https://dsa-crash-course.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗%20LIVE%20DEMO-00F7FF?style=for-the-badge&logoColor=black"/>
-  </a>
+
+<a href="https://dsa-crash-course.vercel.app/">
+<img src="https://img.shields.io/badge/🔗%20LIVE%20DEMO-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE">
-    <img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE">
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 </td>
 
+
+<!-- PROJECT 2 -->
+
 <td width="33%" valign="top">
 
-<h3 align="center">🤖 Plant Disease Detection</h3>
+<h3 align="center">
+  🤖 PLANT DISEASE DETECTION
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Computer%20Vision-00F7FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Computer%20Vision-00F7FF?style=flat-square"/>
+
 </p>
 
 <p align="center">
-Machine Learning project using transfer learning and image classification to detect plant diseases from leaf images.
+Machine Learning project using image classification
+and transfer learning to detect plant diseases from
+leaf images.
 </p>
 
 <p align="center">
@@ -211,23 +305,34 @@ Machine Learning project using transfer learning and image classification to det
 </p>
 
 <p align="center">
-  <a href="https://github.com/OwaisKhan08093">
-    <img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/OwaisKhan08093">
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 </td>
 
+
+<!-- PROJECT 3 -->
+
 <td width="33%" valign="top">
 
-<h3 align="center">🏠 House Price Prediction</h3>
+<h3 align="center">
+  🏠 HOUSE PRICE PREDICTION
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-00F7FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Regression-00F7FF?style=flat-square"/>
+
 </p>
 
 <p align="center">
-Regression model for predicting house prices with data analysis, visualization and model evaluation.
+Machine Learning regression project for predicting
+house prices with data analysis, visualization
+and model evaluation.
 </p>
 
 <p align="center">
@@ -239,9 +344,11 @@ Regression model for predicting house prices with data analysis, visualization a
 </p>
 
 <p align="center">
-  <a href="https://github.com/OwaisKhan08093">
-    <img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://github.com/OwaisKhan08093">
+<img src="https://img.shields.io/badge/💻%20SOURCE-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 </td>
@@ -251,45 +358,82 @@ Regression model for predicting house prices with data analysis, visualization a
 
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== MORE PROJECTS ==================== -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+### 🛒 AutoShopper AI
+
+AI-powered e-commerce assistant concept designed to help users discover products, compare options and receive intelligent recommendations.
+
+`AI` `React` `Node.js` `ML`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏛️ Unified Citizen
+
+AI-powered citizen grievance platform designed to simplify complaint submission, routing and resolution.
+
+`React` `Node.js` `PostgreSQL` `AI`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ====================== GITHUB =========================== -->
 
 <h2 align="center">
-  📊 GITHUB ANALYTICS
+  📊 GITHUB STATS
 </h2>
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=OwaisKhan08093&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF"
-  />
 
 <img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisKhan08093&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=OwaisKhan08093&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080D13&title_color=00F7FF&text_color=E6EDF3&icon_color=00F7FF"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisKhan08093&layout=compact&hide_border=true&bg_color=080D13&title_color=00F7FF&text_color=E6EDF3"
 />
 
 </p>
 
+<br>
+
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=OwaisKhan08093&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E"
-  />
+
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=OwaisKhan08093&theme=dark&hide_border=true&background=080D13&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=E6EDF3&dates=8B949E"
+/>
+
 </p>
 
 <br>
 
-<!-- ================= CONTRIBUTION GRAPH =================== -->
+<!-- ==================== CONTRIBUTIONS ===================== -->
 
 <h2 align="center">
   🐍 CONTRIBUTION ACTIVITY
 </h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
+
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </p>
 
 <br>
@@ -303,15 +447,18 @@ Regression model for predicting house prices with data analysis, visualization a
 <p align="center">
 
 <img src="https://img.shields.io/badge/Advanced%20DSA-00F7FF?style=for-the-badge&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-061826?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
 
 </p>
 
 <br>
 
-<!-- ===================== GOALS ============================= -->
+<!-- ================= DEVELOPMENT MINDSET ================ -->
 
 <h2 align="center">
   🎯 DEVELOPMENT MINDSET
@@ -322,39 +469,39 @@ Regression model for predicting house prices with data analysis, visualization a
 
 <td align="center" width="25%">
 
-### 🧠
+## 🧠
 
-**LEARN**
+### LEARN
 
-Constantly improving technical depth.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**BUILD**
-
-Turning concepts into projects.
+Build strong fundamentals.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
+## 🛠️
 
-**SHIP**
+### BUILD
 
-Creating useful real-world solutions.
+Turn concepts into projects.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔥
+## 🚀
 
-**GROW**
+### SHIP
+
+Create real-world solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🔥
+
+### GROW
 
 Consistency over perfection.
 
@@ -372,30 +519,48 @@ Consistency over perfection.
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/owais-khan-608954381">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/OwaisKhan08093">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/owais-khan-608954381">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/OwaisKhan08093">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1800&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+%F0%9F%9A%80"/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;Let's+build+something+amazing+together+%F0%9F%9A%80"
+/>
+
 </p>
 
-<!-- ===================== FOOTER ============================ -->
+<br>
+
+<!-- ========================= FOOTER ======================== -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,40:061826,70:0077B6,100:00F7FF"
-    width="100%"
-  />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,35:061826,70:0077B6,100:00F7FF"
+  width="100%"
+/>
+
 </p>
 
 <p align="center">
-  <sub>⚡ Designed & built by Owais Khan</sub>
+
+<b>⚡ OWAIS KHAN</b>
+
+<br>
+
+<sub>Software Developer • DSA • AI/ML</sub>
+
 </p>
