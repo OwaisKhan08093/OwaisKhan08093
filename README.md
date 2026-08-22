@@ -401,7 +401,6 @@ Improve consistently.
 </div> -->
 
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0077B6,100:00F7FF&height=220&section=header&text=OWAIS%20KHAN&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
@@ -438,7 +437,7 @@ Improve consistently.
 
 <table width="100%">
 <tr>
-<td width="68%" valign="top">
+<td valign="top">
 
 I'm a **Computer Science student** passionate about solving problems, building useful applications, and exploring how **software engineering**, **algorithms**, and **artificial intelligence** can create **real-world impact**.
 
@@ -448,22 +447,6 @@ I'm a **Computer Science student** passionate about solving problems, building u
 - 🤖 **AI/ML explorer** — experimenting with machine learning and computer vision
 - 🛠️ **Project builder** — turning ideas into working, real applications
 - 📍 Based in **Lucknow, India**
-
-</td>
-<td width="32%" valign="top">
-
-```ascii
-╔════════════════════════╗
-║  OWAIS KHAN           ║
-║  Software Developer   ║
-╠════════════════════════╣
-║  > DSA      ▰▰▰▰▱    ║
-║  > AI/ML    ▰▰▰▱▱    ║
-║  > Backend  ▰▰▰▱▱    ║
-║  > Frontend ▰▰▰▰▱    ║
-║  > System D ▰▰▱▱▱    ║
-╚════════════════════════╝
-```
 
 </td>
 </tr>
@@ -509,44 +492,29 @@ I'm a **Computer Science student** passionate about solving problems, building u
 
 <table width="100%">
 <tr>
-<td width="20%" align="center" valign="middle"><b>LANGUAGES</b></td>
-<td width="80%" valign="middle">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" alt="Languages"/>
+<td width="15%" align="center" valign="middle"><b>LANGUAGES</b></td>
+<td colspan="2" width="85%" valign="middle">
+<table width="100%"><tr>
+<td width="50%" valign="middle"><img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="Languages — Group 1"/></td>
+<td width="50%" valign="middle"><img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark" alt="Languages — Group 2"/></td>
+</tr></table>
 </td>
 </tr>
 <tr>
-<td colspan="2"><hr/></td>
+<td width="15%" align="center" valign="middle"><b>FRONTEND</b></td>
+<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/></td>
 </tr>
 <tr>
-<td width="20%" align="center" valign="middle"><b>FRONTEND</b></td>
-<td width="80%" valign="middle">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/>
-</td>
+<td width="15%" align="center" valign="middle"><b>BACKEND</b></td>
+<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/></td>
 </tr>
 <tr>
-<td colspan="2"><hr/></td>
+<td width="15%" align="center" valign="middle"><b>DATABASE</b></td>
+<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database"/></td>
 </tr>
 <tr>
-<td width="20%" align="center" valign="middle"><b>BACKEND</b></td>
-<td width="80%" valign="middle">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
-</td>
-</tr>
-<tr>
-<td colspan="2"><hr/></td>
-</tr>
-<tr>
-<td width="20%" align="center" valign="middle"><b>DATABASE</b></td>
-<td width="80%" valign="middle">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database"/>
-</td>
-</tr>
-<tr>
-<td colspan="2"><hr/></td>
-</tr>
-<tr>
-<td width="20%" align="center" valign="middle"><b>AI / DATA</b></td>
-<td width="80%" valign="middle">
+<td width="15%" align="center" valign="middle"><b>AI / DATA</b></td>
+<td colspan="2" width="85%" valign="middle">
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI/Data"/>
 &nbsp;<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"/>
 &nbsp;<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
@@ -556,12 +524,8 @@ I'm a **Computer Science student** passionate about solving problems, building u
 </td>
 </tr>
 <tr>
-<td colspan="2"><hr/></td>
-</tr>
-<tr>
-<td width="20%" align="center" valign="middle"><b>TOOLS</b></td>
-<td width="80%" valign="middle">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark" alt="Tools"/>
+<td width="15%" align="center" valign="middle"><b>TOOLS</b></td>
+<td colspan="2" width="85%" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,docker,linux&theme=dark" alt="Tools"/>
 </td>
 </tr>
 </table>
