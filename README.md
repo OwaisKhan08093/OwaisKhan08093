@@ -84,70 +84,68 @@
 
 
 
-
-
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=220&section=header&text=Owais%20Khan&fontSize=54&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=16&descAlignY=60&descFontColor=94A3B8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,45:0077B6,100:050505&height=240&section=header&text=OWAIS%20KHAN&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=18&descAlignY=60&descFontColor=ccfbff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Turning+Algorithms+Into+Solutions;Building+Real-World+Software;Exploring+AI+%26+Machine+Learning;Learning+%7C+Building+%7C+Shipping"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+Algorithms+Into+Solutions;Building+Real-World+Software;Exploring+AI+%26+Machine+Learning;Learning+%7C+Building+%7C+Shipping"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/OwaisKhan08093">
-    <img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&style=flat-square&color=1E293B&label=PROFILE%20VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS"/>
   </a>
   <a href="https://github.com/OwaisKhan08093?tab=followers">
-    <img src="https://img.shields.io/github/followers/OwaisKhan08093?style=flat-square&color=334155&label=FOLLOWERS&labelColor=1E293B"/>
+    <img src="https://img.shields.io/github/followers/OwaisKhan08093?style=for-the-badge&color=0077B6&label=FOLLOWERS"/>
   </a>
 </p>
 
+<br>
+
+<!-- ===================== INTRO ===================== -->
+
+<h2 align="center">👨‍💻 ABOUT ME</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&color=E2E8F0" width="120" height="3"/>
+  <b>Computer Science Student • Software Developer • DSA Enthusiast • AI Explorer</b>
+</p>
+
+<p align="center">
+  I enjoy solving problems, building useful applications, and exploring how
+  <br>
+  <b>software engineering + algorithms + artificial intelligence</b>
+  can create real-world impact.
 </p>
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
-  <b>Computer Science Student&nbsp;·&nbsp;Software Developer&nbsp;·&nbsp;DSA Enthusiast&nbsp;·&nbsp;AI Explorer</b>
-</p>
-
-<p align="center">
-  I enjoy solving problems, building useful applications, and exploring how<br>
-  <b>software engineering, algorithms, and artificial intelligence</b> come together to create real-world impact.
-</p>
-
-<br>
-
-<table align="center" width="100%">
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🧩 What I Do**
+### 🧠 What I Do
 
-- Practice Data Structures & Algorithms
-- Build full-stack projects
-- Explore AI & Machine Learning
-- Turn ideas into working products
-- Learn through hands-on projects
+* 🧩 Practice Data Structures & Algorithms
+* 💻 Build full-stack projects
+* 🤖 Explore AI & Machine Learning
+* 🚀 Turn ideas into working products
+* 🔍 Learn through practical projects
 
 </td>
+
 <td width="50%" valign="top">
 
-**🎯 Current Focus**
+### 🎯 Current Focus
 
-- Advanced DSA
-- Machine Learning fundamentals
-- Backend development
-- System design
-- Building portfolio projects
+* Advanced DSA
+* Machine Learning fundamentals
+* Backend development
+* System Design
+* Building portfolio projects
+* Improving problem-solving skills
 
 </td>
 </tr>
@@ -157,86 +155,123 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">⚡ TECH STACK</h2>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%"><sub><b>LANGUAGES</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark"/>
-</td>
-<td align="center" width="25%"><sub><b>FRONTEND & BACKEND</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark"/>
-</td>
-<td align="center" width="25%"><sub><b>AI / DATA</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas&theme=dark"/>
-</td>
-<td align="center" width="25%"><sub><b>TOOLS & PLATFORMS</b></sub><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,firebase&theme=dark"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>Languages</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css"/>
+</p>
+
+<p align="center">
+  <b>Frontend & Backend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express"/>
+</p>
+
+<p align="center">
+  <b>AI / Data</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas"/>
+</p>
+
+<p align="center">
+  <b>Tools & Platforms</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,firebase"/>
+</p>
 
 <br>
 
 <!-- ===================== PROJECTS ===================== -->
 
-<h3 align="center">Featured Projects</h3>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
-#### 🌐 DSA Crash Course
+<h3>🌐 DSA Crash Course</h3>
 
-Interactive learning platform covering major Data Structures & Algorithms topics with roadmaps, quizzes, and visual learning.
+Interactive learning platform covering major Data Structures & Algorithms topics with roadmaps, quizzes and visual learning.
 
-**Stack:** React · Vite · Tailwind · JavaScript
+<b>Stack:</b>
+
+React • Vite • Tailwind • JavaScript
+
+<br>
 
 <a href="https://dsa-crash-course.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-1E293B?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
+
 <a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE">
-  <img src="https://img.shields.io/badge/Source-334155?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-#### 🤖 Plant Disease Detection
+<h3>🤖 Plant Disease Detection</h3>
 
 Machine Learning project using image classification and transfer learning to identify plant diseases from leaf images.
 
-**Stack:** Python · TensorFlow · Keras · MobileNetV2
+<b>Stack:</b>
+
+Python • TensorFlow • Keras • MobileNetV2
+
+<br>
 
 <a href="https://github.com/OwaisKhan08093">
-  <img src="https://img.shields.io/badge/Source-334155?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-#### 🏠 House Price Prediction
+<h3>🏠 House Price Prediction</h3>
 
-Machine Learning regression project predicting house prices using property-related features, with model evaluation and visualization.
+Machine Learning regression project predicting house prices using property-related features with model evaluation and visualization.
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
+<b>Stack:</b>
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
 </td>
+
 <td width="50%" valign="top">
 
-#### 🖥️ Portfolio Website
+<h3>🌐 Portfolio Website</h3>
 
-Personal developer portfolio showcasing projects, skills, learning journey, and achievements.
+Personal developer portfolio showcasing projects, skills, learning journey and achievements.
 
-**Stack:** HTML · CSS · JavaScript
+<b>Stack:</b>
+
+HTML • CSS • JavaScript
+
+<br>
 
 <a href="https://owaiskhan08093.github.io/Portfolio-website/">
-  <img src="https://img.shields.io/badge/Visit-1E293B?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -244,22 +279,22 @@ Personal developer portfolio showcasing projects, skills, learning journey, and 
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-<h3 align="center">GitHub Analytics</h3>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OwaisKhan08093&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=CBD5E1&icon_color=64748B"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisKhan08093&layout=compact&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=CBD5E1"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=OwaisKhan08093&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisKhan08093&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OwaisKhan08093&theme=dark&hide_border=true&background=0F172A&ring=64748B&fire=64748B&currStreakLabel=94A3B8&sideLabels=CBD5E1&dates=64748B"/>
+  <img src="https://streak-stats.demolab.com?user=OwaisKhan08093&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
 <br>
 
 <!-- ===================== CONTRIBUTION ===================== -->
 
-<h3 align="center">Contribution Activity</h3>
+<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
@@ -269,31 +304,34 @@ Personal developer portfolio showcasing projects, skills, learning journey, and 
 
 <!-- ===================== LEARNING ===================== -->
 
-<h3 align="center">Currently Learning</h3>
+<h2 align="center">📚 CURRENTLY LEARNING</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E293B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-334155?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Design-475569?style=flat-square&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00F7FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0077B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 <br>
 
 <!-- ===================== CONNECT ===================== -->
 
-<h3 align="center">Let's Connect</h3>
+<h2 align="center">🤝 LET'S CONNECT</h2>
 
 <p align="center">
   <a href="https://github.com/OwaisKhan08093">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/owais-khan-608954381">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building today. Learning every day. Engineering the future.</i>
+  <i>💡 Building today. Learning every day. Engineering the future.</i>
 </p>
 
 <br>
@@ -301,5 +339,5 @@ Personal developer portfolio showcasing projects, skills, learning journey, and 
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:0077B6,100:00F7FF&height=130&section=footer"/>
 </p>
