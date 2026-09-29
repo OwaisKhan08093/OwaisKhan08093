@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0077B6,100:00F7FF&height=220&section=header&text=OWAIS%20KHAN&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0077B6,100:00F7FF&height=220&section=header&text=OWAIS%20KHAN&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
 
 <table width="100%">
 <tr>
@@ -385,4 +385,4 @@ Improve consistently.
 
 <sub><b>⚡ OWAIS KHAN</b><br/><i>Software Developer • DSA • AI/ML</i></sub>
 
-</div>
+</div> -->
