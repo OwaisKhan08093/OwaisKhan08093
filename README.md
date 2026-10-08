@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B14,50:0077B6,100:00F7FF&height=240&section=header&text=OWAIS%20KHAN&fontSize=64&fontColor=E6EDF3&fontAlignY=38&stroke=00F7FF&strokeWidth=1&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=22&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020B14,35:061826,70:0077B6,100:00F7FF&height=280&section=header&text=OWAIS%20KHAN&fontSize=70&fontColor=E6EDF3&fontAlignY=40&stroke=00F7FF&strokeWidth=1&desc=%E2%9F%A8%20Software%20Developer%20%C2%B7%20DSA%20%C2%B7%20AI%2FML%20%E2%9F%A9&descSize=22&descColor=00F7FF&descAlignY=62&animation=twinkling" width="100%" alt="Header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%E2%96%B8+Learning+%7C+Building+%7C+Shipping;%E2%96%B8+Turning+Algorithms+Into+Solutions;%E2%96%B8+Building+Real-World+Software;%E2%96%B8+Exploring+AI+%26+Machine+Learning;%E2%96%B8+Solving+Problems+With+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=%E2%96%B8+Learning+%7C+Building+%7C+Shipping;%E2%96%B8+Turning+Algorithms+Into+Solutions;%E2%96%B8+Building+Real-World+Software;%E2%96%B8+Exploring+AI+%26+Machine+Learning;%E2%96%B8+Solving+Problems+With+Code" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=020B14" alt="Profile Views"/>
 &nbsp;
@@ -50,30 +50,30 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>💻 <code>SOFTWARE DEVELOPMENT</code></h3>
+### 💻 `SOFTWARE DEVELOPMENT`
 
-▸ Full-stack web applications<br/>
-▸ Backend development<br/>
-▸ REST APIs<br/>
-▸ Database-driven applications<br/>
-▸ Modern React / Next.js applications<br/>
-▸ CLI applications<br/>
-▸ Practical software engineering<br/><br/>
+- ▸ Full-stack web applications
+- ▸ Backend development
+- ▸ REST APIs
+- ▸ Database-driven applications
+- ▸ Modern React / Next.js applications
+- ▸ CLI applications
+- ▸ Practical software engineering
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>🤖 <code>AI / ML</code></h3>
+### 🤖 `AI / ML`
 
-▸ Machine Learning<br/>
-▸ Deep Learning<br/>
-▸ Retrieval-Augmented Generation<br/>
-▸ LLM applications<br/>
-▸ AI Agents<br/>
-▸ Trustworthy AI systems<br/>
-▸ Applied AI/ML<br/><br/>
+- ▸ Machine Learning
+- ▸ Deep Learning
+- ▸ Retrieval-Augmented Generation
+- ▸ LLM applications
+- ▸ AI Agents
+- ▸ Trustworthy AI systems
+- ▸ Applied AI/ML
 
 </td>
 </tr>
@@ -89,24 +89,24 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><b>LANGUAGES</b></td>
-<td width="80%" align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" alt="Languages"/></td>
+<td width="18%" align="center"><b>LANGUAGES</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" alt="Languages"/></td>
 </tr>
 <tr>
-<td width="20%" align="center"><b>FRONTEND</b></td>
-<td width="80%" align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/></td>
+<td align="center"><b>FRONTEND</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/></td>
 </tr>
 <tr>
-<td width="20%" align="center"><b>BACKEND</b></td>
-<td width="80%" align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/></td>
+<td align="center"><b>BACKEND</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/></td>
 </tr>
 <tr>
-<td width="20%" align="center"><b>DATABASE</b></td>
-<td width="80%" align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Database"/></td>
+<td align="center"><b>DATABASE</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Database"/></td>
 </tr>
 <tr>
-<td width="20%" align="center"><b>AI / DATA</b></td>
-<td width="80%" align="center">
+<td align="center"><b>AI / DATA</b></td>
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI/Data"/>
 
@@ -127,8 +127,8 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 </td>
 </tr>
 <tr>
-<td width="20%" align="center"><b>TOOLS</b></td>
-<td width="80%" align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Tools"/></td>
+<td align="center"><b>TOOLS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Tools"/></td>
 </tr>
 </table>
 
