@@ -31,8 +31,8 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 - 🎓 **B.Tech CSE** — Pranveer Singh Institute of Technology, Kanpur
 - 🧠 **DSA learner** — consistently practicing Data Structures & Algorithms
 - 💻 **Software developer** — building full-stack applications and AI-powered systems
-- 🤖 **AI/ML developer** — exploring Machine Learning, RAG, AI Agents, and intelligent systems
-- 🔬 **AI builder** — working on trustworthy AI and intelligent applications
+- 🤖 **AI/ML developer** — exploring Machine Learning, RAG, LLM applications, and AI Agents
+- 🔬 **AI builder** — interested in trustworthy and intelligent AI systems
 - 🏆 **SIH contributor** — contributing to the Unified Citizen Grievance System as an AI/ML developer
 - 🚀 **Project builder** — turning ideas into practical, real-world solutions
 
@@ -52,7 +52,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 - Backend development
 - REST APIs
 - Database-driven applications
-- Modern React applications
+- Modern React / Next.js applications
 - Practical software engineering
 
 </td>
@@ -67,6 +67,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 - LLM applications
 - AI Agents
 - Trustworthy AI systems
+- Applied AI/ML
 
 </td>
 
@@ -106,7 +107,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/>
 
 </td>
 
@@ -138,7 +139,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Database"/>
 
 </td>
 
@@ -167,6 +168,14 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RAG-0077B6?style=flat-square&logoColor=white" alt="RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=flat-square&logoColor=white" alt="LLMs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Agents-00B4D8?style=flat-square&logoColor=white" alt="AI Agents"/>
 
 </td>
 
@@ -198,7 +207,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 
 <tr>
 
-<td width="33.33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -220,7 +229,7 @@ A modern learning platform focused on helping students master **Data Structures 
 
 </a>
 
-<br/><br/>
+&nbsp;
 
 <a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE">
 
@@ -232,7 +241,7 @@ A modern learning platform focused on helping students master **Data Structures 
 
 </td>
 
-<td width="33.33%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -260,7 +269,11 @@ TrustRAG follows a **Retrieve → Generate → Verify → Confidence → Answer 
 
 </td>
 
-<td width="33.33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -281,6 +294,42 @@ I contribute to the project as an **AI/ML developer**, working on intelligent ca
 <a href="https://github.com/NaitikBuilds/unified-citizen">
 
 <img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Unified Grievance Source Code"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 📚 LearnOS
+
+**Student Learning Dashboard**
+
+A modern student learning dashboard designed to track **courses, learning progress, activities, statistics, and upcoming learning goals** through an interactive and responsive interface.
+
+The project uses a modern **Next.js architecture**, Supabase-backed data, animated interactions, responsive UI, and structured dashboard components.
+
+<br/>
+
+`Next.js` `React` `Supabase` `PostgreSQL` `Tailwind` `Framer Motion`
+
+<br/><br/>
+
+<a href="https://learning-dashboard-vert.vercel.app/">
+
+<img src="https://img.shields.io/badge/LIVE_DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=061826&labelColor=0D1117" alt="LearnOS Live Demo"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/OwaisKhan08093/learning-dashboard">
+
+<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="LearnOS Source Code"/>
 
 </a>
 
@@ -427,9 +476,13 @@ A machine learning project for predicting house prices using property-related fe
 <br/>
 
 <sub>
+
 <b>⚡ OWAIS KHAN</b>
+
 <br/>
+
 <i>Software Developer • DSA • AI/ML • RAG • AI Agents</i>
+
 </sub>
 
 </div>
