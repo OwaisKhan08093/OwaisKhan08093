@@ -1,213 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0077B6,100:00F7FF&height=220&section=header&text=OWAIS%20KHAN&fontSize=58&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20AI%2FML&descSize=20&descColor=00F7FF&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020B14,35:061826,70:0077B6,100:00F7FF&height=280&section=header&text=OWAIS%20KHAN&fontSize=70&fontColor=E6EDF3&fontAlignY=40&stroke=00F7FF&strokeWidth=1&desc=%E2%9F%A8%20Software%20Developer%20%C2%B7%20DSA%20%C2%B7%20AI%2FML%20%E2%9F%A9&descSize=22&descColor=00F7FF&descAlignY=62&animation=twinkling" width="100%" alt="Header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=Learning%20%7C%20Building%20%7C%20Shipping;Turning%20Algorithms%20Into%20Solutions;Building%20Real-World%20Software;Exploring%20AI%20%26%20Machine%20Learning;Solving%20Problems%20With%20Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=%E2%96%B8+Learning+%7C+Building+%7C+Shipping;%E2%96%B8+Turning+Algorithms+Into+Solutions;%E2%96%B8+Building+Real-World+Software;%E2%96%B8+Exploring+AI+%26+Machine+Learning;%E2%96%B8+Solving+Problems+With+Code" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
-
+<img src="https://komarev.com/ghpvc/?username=OwaisKhan08093&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=020B14" alt="Profile Views"/>
 &nbsp;
+<img src="https://img.shields.io/github/followers/OwaisKhan08093?label=FOLLOWERS&style=for-the-badge&color=00B4D8&labelColor=020B14" alt="Followers"/>
 
-<img src="https://img.shields.io/github/followers/OwaisKhan08093?label=FOLLOWERS&style=for-the-badge&color=00B4D8&labelColor=0D1117" alt="Followers"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:0077B6,100:7B2CBF&height=2&section=header" width="80%" alt="divider"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 ABOUT ME
+<div align="center">
 
-<p align="center">
+# `[ 👨‍💻 ABOUT ME ]`
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=4000&pause=2000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=900&height=60&lines=Software+Developer+%7C+DSA+%7C+AI%2FML;B.Tech+CSE+%E2%80%94+Building+Useful+Software" alt="Subtitle"/>
 
-</p>
+</div>
+
+<br/>
 
 I'm a **Computer Science student** passionate about solving problems and building real-world software at the intersection of **software engineering, algorithms, and artificial intelligence**.
 
-- 🎓 **B.Tech CSE** — Pranveer Singh Institute of Technology, Kanpur
-- 🧠 **DSA learner** — consistently practicing Data Structures & Algorithms
-- 💻 **Software developer** — building full-stack applications and AI-powered systems
-- 🤖 **AI/ML developer** — exploring Machine Learning, RAG, LLM applications, and AI Agents
-- 🔬 **AI builder** — interested in trustworthy and intelligent AI systems
-- 🏆 **SIH contributor** — contributing to the Unified Citizen Grievance System as an AI/ML developer
-- 🚀 **Project builder** — turning ideas into practical, real-world solutions
+> 🎓 **B.Tech CSE** — Pranveer Singh Institute of Technology, Kanpur
+> 🧠 **DSA learner** — consistently practicing Data Structures & Algorithms
+> 💻 **Software developer** — building full-stack applications and AI-powered systems
+> 🤖 **AI/ML developer** — exploring Machine Learning, RAG, LLM applications, and AI Agents
+> 🔬 **AI builder** — interested in trustworthy and intelligent AI systems
+> 🏆 **SIH contributor** — contributing to the Unified Citizen Grievance System as an AI/ML developer
+> 🚀 **Project builder** — turning ideas into practical, real-world solutions
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:00F7FF,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
-## 🧠 WHAT I DO
+<div align="center">
+
+# `[ 🧠 WHAT I DO ]`
+
+</div>
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 💻 SOFTWARE DEVELOPMENT
+### 💻 `SOFTWARE DEVELOPMENT`
 
-- Full-stack web applications
-- Backend development
-- REST APIs
-- Database-driven applications
-- Modern React / Next.js applications
-- CLI applications
-- Practical software engineering
+- ▸ Full-stack web applications
+- ▸ Backend development
+- ▸ REST APIs
+- ▸ Database-driven applications
+- ▸ Modern React / Next.js applications
+- ▸ CLI applications
+- ▸ Practical software engineering
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🤖 AI / ML
+### 🤖 `AI / ML`
 
-- Machine Learning
-- Deep Learning
-- Retrieval-Augmented Generation
-- LLM applications
-- AI Agents
-- Trustworthy AI systems
-- Applied AI/ML
+- ▸ Machine Learning
+- ▸ Deep Learning
+- ▸ Retrieval-Augmented Generation
+- ▸ LLM applications
+- ▸ AI Agents
+- ▸ Trustworthy AI systems
+- ▸ Applied AI/ML
 
 </td>
-
 </tr>
-
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:0077B6,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
-## ⚡ TECH STACK
+<div align="center">
+
+# `[ ⚡ TECH STACK ]`
+
+</div>
 
 <table width="100%">
-
 <tr>
-
-<td width="18%" align="center">
-
-<b>LANGUAGES</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" alt="Languages"/>
-
-</td>
-
+<td width="18%" align="center"><b>LANGUAGES</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" alt="Languages"/></td>
 </tr>
-
 <tr>
-
-<td align="center">
-
-<b>FRONTEND</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/>
-
-</td>
-
+<td align="center"><b>FRONTEND</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Frontend"/></td>
 </tr>
-
 <tr>
-
-<td align="center">
-
-<b>BACKEND</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/>
-
-</td>
-
+<td align="center"><b>BACKEND</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/></td>
 </tr>
-
 <tr>
-
-<td align="center">
-
-<b>DATABASE</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Database"/>
-
-</td>
-
+<td align="center"><b>DATABASE</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" alt="Database"/></td>
 </tr>
-
 <tr>
-
-<td align="center">
-
-<b>AI / DATA</b>
-
-</td>
-
+<td align="center"><b>AI / DATA</b></td>
 <td align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI/Data"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=020B14" alt="Keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=020B14" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=020B14" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=020B14" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=020B14" alt="Transformers"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/RAG-0077B6?style=flat-square&logoColor=white" alt="RAG"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=flat-square&logoColor=white" alt="LLMs"/>
-&nbsp;
-<img src="https://img.shields.io/badge/AI%20Agents-00B4D8?style=flat-square&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logoColor=white&labelColor=020B14" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-7B2CBF?style=for-the-badge&logoColor=white&labelColor=020B14" alt="LLMs"/>
+<img src="https://img.shields.io/badge/AI%20Agents-00B4D8?style=for-the-badge&logoColor=white&labelColor=020B14" alt="AI Agents"/>
 
 </td>
-
 </tr>
-
 <tr>
-
-<td align="center">
-
-<b>TOOLS</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Tools"/>
-
-</td>
-
+<td align="center"><b>TOOLS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Tools"/></td>
 </tr>
-
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:7B2CBF,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
-# 🚀 FEATURED PROJECTS
+<div align="center">
+
+# `[ 🚀 FEATURED PROJECTS ]`
+
+</div>
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -220,28 +154,17 @@ A modern learning platform focused on helping students master **Data Structures 
 
 <br/>
 
-`React` `Vite` `Tailwind` `JavaScript` `Framer Motion`
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=00F7FF"/>
 
 <br/><br/>
 
-<a href="https://getalgoforge.vercel.app/">
-
-<img src="https://img.shields.io/badge/LIVE_DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=061826&labelColor=0D1117" alt="AlgoForge Live Demo"/>
-
-</a>
-
+<a href="https://getalgoforge.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=061826&labelColor=0D1117" alt="AlgoForge Live Demo"/></a>
 &nbsp;
-
-<a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE">
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="AlgoForge Source Code"/>
-
-</a>
+<a href="https://github.com/OwaisKhan08093/DSA_CRASH_COURSE"><img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="AlgoForge Source Code"/></a>
 
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -256,24 +179,17 @@ TrustRAG follows a **Retrieve → Generate → Verify → Confidence → Answer 
 
 <br/>
 
-`Python` `RAG` `Qwen` `FastAPI` `React` `Transformers`
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Qwen-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Transformers-0D1117?style=flat-square&logo=huggingface&logoColor=00F7FF"/>
 
 <br/><br/>
 
-<a href="https://github.com/OwaisKhan08093/TRUSTRAG">
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="TrustRAG Source Code"/>
-
-</a>
+<a href="https://github.com/OwaisKhan08093/TRUSTRAG"><img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="TrustRAG Source Code"/></a>
 
 </div>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -288,20 +204,15 @@ I contribute to the project as an **AI/ML developer**, working on intelligent ca
 
 <br/>
 
-`React` `Node.js` `PostgreSQL` `Prisma` `AI/ML`
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=00F7FF"/>
 
 <br/><br/>
 
-<a href="https://github.com/NaitikBuilds/unified-citizen">
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Unified Grievance Source Code"/>
-
-</a>
+<a href="https://github.com/NaitikBuilds/unified-citizen"><img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Unified Grievance Source Code"/></a>
 
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -316,40 +227,30 @@ The project uses a modern **Next.js architecture**, Supabase-backed data, animat
 
 <br/>
 
-`Next.js` `React` `Supabase` `PostgreSQL` `Tailwind` `Framer Motion`
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Framer%20Motion-0D1117?style=flat-square&logo=framer&logoColor=00F7FF"/>
 
 <br/><br/>
 
-<a href="https://learning-dashboard-vert.vercel.app/">
-
-<img src="https://img.shields.io/badge/LIVE_DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=061826&labelColor=0D1117" alt="LearnOS Live Demo"/>
-
-</a>
-
+<a href="https://learning-dashboard-vert.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00F7FF?style=for-the-badge&logo=vercel&logoColor=061826&labelColor=0D1117" alt="LearnOS Live Demo"/></a>
 &nbsp;
-
-<a href="https://github.com/OwaisKhan08093/learning-dashboard">
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="LearnOS Source Code"/>
-
-</a>
+<a href="https://github.com/OwaisKhan08093/learning-dashboard"><img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="LearnOS Source Code"/></a>
 
 </div>
 
 </td>
-
 </tr>
-
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:00B4D8,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
-# 🧪 OTHER PROJECTS
+<div align="center">
+
+# `[ 🧪 OTHER PROJECTS ]`
+
+</div>
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🛒 AutoShopper AI
@@ -364,10 +265,9 @@ The project explores the intersection of **e-commerce, Machine Learning, recomme
 
 <br/>
 
-`React` `Node.js` `Express` `Python` `AI/ML` `MongoDB`
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00F7FF"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 🤖 Binance Futures Trading Bot
@@ -380,22 +280,15 @@ The project focuses on **API integration, input validation, modular architecture
 
 <br/>
 
-`Python` `Binance API` `CLI` `Argparse` `API Integration`
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Binance%20API-0D1117?style=flat-square&logo=binance&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/CLI-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Argparse-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/API%20Integration-0D1117?style=flat-square&logoColor=00F7FF"/>
 
 <br/><br/>
 
-<a href="https://github.com/OwaisKhan08093/Binance_bot">
-
-<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Binance Bot Source Code"/>
-
-</a>
+<a href="https://github.com/OwaisKhan08093/Binance_bot"><img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Binance Bot Source Code"/></a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🏠 House Price Prediction
@@ -406,10 +299,9 @@ A machine learning project for predicting house prices using property-related fe
 
 <br/>
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=00F7FF"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 ## 🔬 AI Systems & Experiments
@@ -420,43 +312,37 @@ Continuously experimenting with **Machine Learning, RAG, LLM applications, AI Ag
 
 <br/>
 
-`Machine Learning` `RAG` `LLMs` `AI Agents` `Python`
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=flat-square&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F7FF"/>
 
 </td>
-
 </tr>
-
 </table>
 
----
-
-## 📚 CURRENTLY LEARNING
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:00F7FF,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20DSA-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Advanced DSA"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Machine%20Learning-00B4D8?style=for-the-badge&labelColor=0D1117" alt="Machine Learning"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RAG%20Systems-0077B6?style=for-the-badge&labelColor=0D1117" alt="RAG Systems"/>
+# `[ 📚 CURRENTLY LEARNING ]`
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Advanced%20DSA-00F7FF?style=for-the-badge&labelColor=020B14&logoColor=020B14" alt="Advanced DSA"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00B4D8?style=for-the-badge&labelColor=020B14" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-0077B6?style=for-the-badge&labelColor=020B14" alt="RAG Systems"/>
 
-<img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge&labelColor=0D1117" alt="AI Agents"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Backend%20Development-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Backend Development"/>
-&nbsp;
-<img src="https://img.shields.io/badge/System%20Design-0077B6?style=for-the-badge&labelColor=0D1117" alt="System Design"/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge&labelColor=020B14" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Backend%20Development-00F7FF?style=for-the-badge&labelColor=020B14" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/System%20Design-0077B6?style=for-the-badge&labelColor=020B14" alt="System Design"/>
 
 </div>
 
----
-
-## 🎯 DEVELOPMENT MINDSET
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:7B2CBF,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
 <div align="center">
 
-### 🧠 LEARN &nbsp; → &nbsp; 🛠️ BUILD &nbsp; → &nbsp; 🚀 SHIP &nbsp; → &nbsp; 🔥 GROW
+# `[ 🎯 DEVELOPMENT MINDSET ]`
+
+### 🧠 LEARN &nbsp;`▸▸`&nbsp; 🛠️ BUILD &nbsp;`▸▸`&nbsp; 🚀 SHIP &nbsp;`▸▸`&nbsp; 🔥 GROW
 
 <br/>
 
@@ -464,25 +350,15 @@ Continuously experimenting with **Machine Learning, RAG, LLM applications, AI Ag
 
 </div>
 
----
-
-## 🤝 LET'S CONNECT
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020B14,50:0077B6,100:020B14&height=2&section=header" width="100%" alt="divider"/></div>
 
 <div align="center">
 
-<a href="https://github.com/OwaisKhan08093">
+# `[ 🤝 LET'S CONNECT ]`
 
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
-
-</a>
-
+<a href="https://github.com/OwaisKhan08093"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/></a>
 &nbsp;
-
-<a href="https://www.linkedin.com/in/owais-khan-608954381">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=E6EDF3" alt="LinkedIn"/>
-
-</a>
+<a href="https://www.linkedin.com/in/owais-khan-608954381"><img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=E6EDF3" alt="LinkedIn"/></a>
 
 <br/><br/>
 
@@ -490,11 +366,11 @@ Continuously experimenting with **Machine Learning, RAG, LLM applications, AI Ag
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077B6,100:061826&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20%E2%9C%A8&fontSize=22&fontColor=E6EDF3&fontAlignY=45&desc=Let's%20build%20something%20amazing%20together%20%F0%9F%9A%80&descSize=16&descColor=00F7FF&descAlignY=68" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:0077B6,100:020B14&height=160&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20%E2%9C%A8&fontSize=24&fontColor=E6EDF3&fontAlignY=42&desc=Let's%20build%20something%20amazing%20together%20%F0%9F%9A%80&descSize=16&descColor=020B14&descAlignY=66&animation=twinkling" width="100%" alt="Footer"/>
 
 <br/>
 
