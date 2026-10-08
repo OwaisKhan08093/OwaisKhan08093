@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150">
+<defs>
+<linearGradient id="bx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A2236"/><stop offset="1" stop-color="#020B14"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="150" rx="16" fill="#020B14"/><rect x="1" y="1" width="898" height="148" rx="15" fill="none" stroke="#0077B6" stroke-opacity="0.5"/>
+<line x1="20" y1="73.0" x2="880" y2="73.0" stroke="#0077B6" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1s" repeatCount="indefinite"/></line>
+<rect x="20.0" y="45" width="140" height="56" rx="12" fill="url(#bx)" stroke="#00F7FF" stroke-width="1.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="90.0" y="79.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700" fill="#E6EDF3">Retrieve</text>
+<text x="90.0" y="33" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#00B4D8">01</text>
+<rect x="200.0" y="45" width="140" height="56" rx="12" fill="url(#bx)" stroke="#00F7FF" stroke-width="1.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" begin="1s" repeatCount="indefinite"/></rect>
+<text x="270.0" y="79.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700" fill="#E6EDF3">Generate</text>
+<text x="270.0" y="33" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#00B4D8">02</text>
+<rect x="380.0" y="45" width="140" height="56" rx="12" fill="url(#bx)" stroke="#00F7FF" stroke-width="1.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" begin="2s" repeatCount="indefinite"/></rect>
+<text x="450.0" y="79.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700" fill="#E6EDF3">Verify</text>
+<text x="450.0" y="33" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#00B4D8">03</text>
+<rect x="560.0" y="45" width="140" height="56" rx="12" fill="url(#bx)" stroke="#00F7FF" stroke-width="1.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" begin="3s" repeatCount="indefinite"/></rect>
+<text x="630.0" y="79.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700" fill="#E6EDF3">Confidence</text>
+<text x="630.0" y="33" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#00B4D8">04</text>
+<rect x="740.0" y="45" width="140" height="56" rx="12" fill="url(#bx)" stroke="#7B2CBF" stroke-width="1.6"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="5s" begin="4s" repeatCount="indefinite"/></rect>
+<text x="810.0" y="79.0" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" font-weight="700" fill="#E6EDF3">Answer / Abstain</text>
+<text x="810.0" y="33" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#00B4D8">05</text>
+<circle r="7" cy="73.0" fill="#00F7FF" filter="url(#glow)"><animate attributeName="cx" from="20" to="880" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="3" cy="73.0" fill="#FFFFFF"><animate attributeName="cx" from="20" to="880" dur="5s" repeatCount="indefinite"/></circle>
+</svg>
