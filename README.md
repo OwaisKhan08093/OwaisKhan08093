@@ -53,6 +53,7 @@ I'm a **Computer Science student** passionate about solving problems and buildin
 - REST APIs
 - Database-driven applications
 - Modern React / Next.js applications
+- CLI applications
 - Practical software engineering
 
 </td>
@@ -369,6 +370,34 @@ The project explores the intersection of **e-commerce, Machine Learning, recomme
 
 <td width="50%" valign="top">
 
+## 🤖 Binance Futures Trading Bot
+
+**Python Trading Automation • Binance Futures Testnet**
+
+A Python-based CLI application for interacting with the **Binance Futures Testnet**, supporting MARKET and LIMIT orders with BUY/SELL operations.
+
+The project focuses on **API integration, input validation, modular architecture, error handling, and structured logging** while providing a practical implementation of exchange API workflows.
+
+<br/>
+
+`Python` `Binance API` `CLI` `Argparse` `API Integration`
+
+<br/><br/>
+
+<a href="https://github.com/OwaisKhan08093/Binance_bot">
+
+<img src="https://img.shields.io/badge/SOURCE_CODE-0077B6?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="Binance Bot Source Code"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🏠 House Price Prediction
 
 **Machine Learning Regression**
@@ -381,29 +410,23 @@ A machine learning project for predicting house prices using property-related fe
 
 </td>
 
+<td width="50%" valign="top">
+
+## 🔬 AI Systems & Experiments
+
+**Learning Through Practical Projects**
+
+Continuously experimenting with **Machine Learning, RAG, LLM applications, AI Agents, and intelligent software systems** through hands-on projects and engineering experiments.
+
+<br/>
+
+`Machine Learning` `RAG` `LLMs` `AI Agents` `Python`
+
+</td>
+
 </tr>
 
 </table>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OwaisKhan08093&theme=github_dark" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OwaisKhan08093&theme=github_dark" width="48%" alt="Repository Languages"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OwaisKhan08093&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=OwaisKhan08093&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=E6EDF3&dates=8B949E" width="70%" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
